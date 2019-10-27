@@ -12,3 +12,9 @@ Simple control to show a text string
 
 Checkbox example, with signal when button is toggled, gets new state.
 
+## Combo
+
+Combo example, with signal when selection is changed, gets new selection.
+
+Create a combo, create a tree model - define the schema ( columns, use gchararray for string ), add a row for each selectable value.  Edit the combo, and create a label, set 'text' to the id of the column to use to render in the combo drop down.
+
