@@ -21,3 +21,7 @@ Create a combo, create a tree model - define the schema ( columns, use gchararra
 ## Entry
 
 Text entry field, set initial value, signal when value is change.
+
+## Switch
+
+A simple boolean toggle, set initial value, signal when state is changed.
