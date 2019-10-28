@@ -18,3 +18,6 @@ Combo example, with signal when selection is changed, gets new selection.
 
 Create a combo, create a tree model - define the schema ( columns, use gchararray for string ), add a row for each selectable value.  Edit the combo, and create a label, set 'text' to the id of the column to use to render in the combo drop down.
 
+## Entry
+
+Text entry field, set initial value, signal when value is change.
