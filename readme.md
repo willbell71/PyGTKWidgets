@@ -6,7 +6,11 @@ Simple button with a click signal, if multiple buttons send the same signal, eac
 
 ## Label
 
-Simple control to show a text string
+Simple control to show a text string.
+
+## Image
+
+Simple control to show an image.
 
 ## Check Button
 
