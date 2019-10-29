@@ -1,9 +1,5 @@
 # GTK+
 
-## Button
-
-Simple button with a click signal, if multiple buttons send the same signal, each button's `id` can be used to identify the sender.
-
 ## Label
 
 Simple control to show a text string.
@@ -11,6 +7,10 @@ Simple control to show a text string.
 ## Image
 
 Simple control to show an image.
+
+## Button
+
+Simple button with a click signal, if multiple buttons send the same signal, each button's `id` can be used to identify the sender.
 
 ## Check Button
 
