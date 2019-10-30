@@ -29,3 +29,8 @@ Text entry field, set initial value, signal when value is change.
 ## Switch
 
 A simple boolean toggle, set initial value, signal when state is changed.
+
+## MenuBar
+
+A menu bar with menus, each containing a number of items.  An activte signal is sent when one is selected.
+
