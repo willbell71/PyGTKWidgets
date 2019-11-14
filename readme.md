@@ -34,3 +34,6 @@ A simple boolean toggle, set initial value, signal when state is changed.
 
 A menu bar with menus, each containing a number of items.  An activte signal is sent when one is selected.
 
+## Spinner
+
+An activity spinner, call start ( spinner.start() ) to make it appear and animate, call stop ( spinner.stop() ) to hide it.
