@@ -37,3 +37,7 @@ A menu bar with menus, each containing a number of items.  An activte signal is 
 ## Spinner
 
 An activity spinner, call start ( spinner.start() ) to make it appear and animate, call stop ( spinner.stop() ) to hide it.
+
+## Progres Bar
+
+A progress bar, call set_fraction and pass a value from 0 to 1, 0 is empty, 1 is full, 0.5 is half etc.
